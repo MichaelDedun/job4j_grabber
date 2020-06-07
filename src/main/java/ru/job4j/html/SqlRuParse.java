@@ -20,5 +20,5 @@ public class SqlRuParse {
             System.out.println(data.childNodes().get(0));
         }
     }
-
+    
 }
