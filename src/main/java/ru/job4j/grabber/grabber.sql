@@ -8,5 +8,5 @@ create table post (
     name VARCHAR(255),
     text VARCHAR(255),
     link VARCHAR (255) UNIQUE ,
-    created_date TIMESTAMP 
+    created_date TIMESTAMP
 );
